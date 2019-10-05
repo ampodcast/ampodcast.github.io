@@ -1,0 +1,19 @@
+* { box-sizing: border-box; }
+.fa-user-circle {
+    font-size: 20vw;
+    color: #09264a;
+}
+.h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline solid #2081f9;
+    border-radius: 50px;
+    height: auto;
+    width: 20%;
+}
+.amp {
+    font-size: 4vw;
+}
+.nav-item {
+    font-size: 120%;
+    font-weight: 470;
+}
