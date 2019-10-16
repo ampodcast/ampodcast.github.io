@@ -10,17 +10,8 @@
     height: auto;
     width: 20%;
 }
-.amp {
-    font-size: 4vw;
-}
-.amicon {
-    background-color: #09264a;
-    border: 1px solid #ADB4BA;
-    color: yellow;
-    text-align: center;
+.squarelogo {
     border-radius: 20px;
-    width: 300px;
-    height: 300px;
 }
 .nav-item {
     font-size: 120%;
