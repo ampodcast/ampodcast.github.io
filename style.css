@@ -14,7 +14,11 @@
     font-size: 4vw;
 }
 .amicon {
-    background-color: #09264a;
+    background-color: #242A36;
+    border: 1px solid #ADB4BA;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
 }
 .nav-item {
     font-size: 120%;
